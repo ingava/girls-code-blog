@@ -7,10 +7,10 @@ categories: jekyll update
 ---
 Galbūt esi tokioje situacijoje, jog nebenori tęsti dabartinės karjeros arba jau pasiekei viską, ką galėjai tame darbe.
 Prieš kelis mėnesius ir aš atsidūriau panašioje padėtyje, tad nusprendžiau pakeisti darbo sritį. Bet kur eiti? Aš neturiu kažkokio kito pašaukimo, 
-apie kurį būčiau svajojusi nuo vaikystės ir kuriam dabar galėčiau atsiduoti. Todėl tiesiog norėjau eiti į pačią perspektyviausia karjeros
+apie kurį būčiau svajojusi nuo vaikystės ir kuriam dabar galėčiau atsiduoti. Todėl tiesiog norėjau eiti į pačią perspektyviausią karjeros
 prasme sritį.
 
-Tikriausiai ne kartą girdėjai ir pati, kiek daug uždirba programuotojai ir kaip juos visus tiesiog graibstyte graibsto.
+Tikriausiai ne kartą girdėjai ir pati, kiek daug uždirba programuotojai, ir kaip juos visus tiesiog graibstyte graibsto.
 Be to, mano draugas taip pat yra programuotojas, todėl gana neblogai žinau atlyginimus ir darbo perspektyvas. 
 
 Bet programavimas fui kaip neįdomu! Juk ten matematika, o aš baisiai jos nemėgau mokykloje, todėl ir nusukau labiau humanitariniais keliais (deja).

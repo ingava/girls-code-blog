@@ -28,6 +28,10 @@ body {
   p {
     line-height: 1.5;
   }
+  .commentWrapper {
+    width: 60%;
+    margin: auto;
+  }
 }
 
 a {
@@ -59,11 +63,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 2.1rem;
   margin-bottom: 4rem;
   font-weight: 700;
   margin-left: -2rem;
   margin-right: -2rem;
+}
+p {
+  line-height: 1.5;
 }
 
 @media (min-width: 30rem) {
@@ -96,10 +103,6 @@ h2 {
   .subtitle {
     margin-bottom: 3rem;
   }
-  .commentWrapper {
-    width: 60%;
-    margin: auto;
-  }
 }
 
 h3 {
@@ -113,10 +116,6 @@ h3 {
     margin-top: 2.5rem;
     font-size: 2rem;
     margin-bottom: 1.5rem;
-  }
-  .commentWrapper {
-    width: 60%;
-    margin: auto;
   }
 }
 

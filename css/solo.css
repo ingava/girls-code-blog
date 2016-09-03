@@ -3,7 +3,9 @@
 html {
   font: 18px/1.6 'Open Sans', sans-serif;
 }
-
+.subtitle {
+  font-weight: 400;
+}
 
 @media (max-width: 325px) {
   html { font: 17px/1.6 'Open Sans', sans-serif; }

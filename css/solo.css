@@ -54,6 +54,9 @@ h1 {
   margin-left: -2rem;
   margin-right: -2rem;
 }
+.subtitle {
+  font-size: 0.5em;
+}
 
 @media (min-width: 30rem) {
   h1 {

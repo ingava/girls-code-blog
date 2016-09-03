@@ -28,6 +28,10 @@ body {
   p {
     line-height: 1.5;
   }
+  .commentWrapper {
+    width: 60%;
+    margin: auto;
+  }
 }
 
 a {

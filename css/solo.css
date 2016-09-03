@@ -9,7 +9,9 @@ html {
 p {
   line-height: 1.2;
 }
-
+#layout {
+  margin: 0 20px;
+}
 @media (max-width: 325px) {
   html { font: 17px/1.6 'Open Sans', sans-serif; }
 }

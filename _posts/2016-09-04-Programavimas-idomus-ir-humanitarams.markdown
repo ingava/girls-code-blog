@@ -3,10 +3,13 @@ layout: post
 comments: true
 title:  "Programavimas labai įdomus! Net ir humanitarams"
 date:   2016-09-04 20:41:12 +0200
+excerpt_separator: <!--more-->
 categories: jekyll update
 ---
 Galbūt esi tokioje situacijoje, jog nebenori tęsti dabartinės karjeros arba jau pasiekei viską, ką galėjai tame darbe.
-Prieš kelis mėnesius ir aš atsidūriau panašioje padėtyje, tad nusprendžiau pakeisti darbo sritį. Bet kur eiti? Aš neturiu kažkokio kito pašaukimo, 
+Prieš kelis mėnesius ir aš atsidūriau panašioje padėtyje, tad nusprendžiau pakeisti darbo sritį. Bet kur eiti? 
+<!--more-->
+Aš neturiu kažkokio kito pašaukimo, 
 apie kurį būčiau svajojusi nuo vaikystės ir kuriam dabar galėčiau atsiduoti. Todėl tiesiog norėjau eiti į pačią perspektyviausią karjeros
 prasme sritį.
 

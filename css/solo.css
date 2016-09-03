@@ -12,13 +12,13 @@ html {
 }
 
 body {
-  margin: 2rem 0 5rem;
+  margin: 1rem 0 5rem;
   color: #222;
 }
 
 @media (min-width: 30rem) {
   body {
-    margin-top: 5rem;
+    margin-top: 4rem;
   }
 }
 
@@ -57,7 +57,7 @@ h1 {
 @media (min-width: 30rem) {
   h1 {
     font-size: 4rem;
-    margin-bottom: 10rem;
+    margin-bottom: 8rem;
   }
 }
 

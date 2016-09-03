@@ -9,7 +9,7 @@ html {
 p {
   line-height: 1.2;
 }
-#layout {
+.commentWrapper {
   margin: 0 20px;
 }
 @media (max-width: 325px) {

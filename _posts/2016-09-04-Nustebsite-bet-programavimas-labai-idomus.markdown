@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nustebsite, bet programavimas labai įdomus!"
+title:  "Programavimas labai įdomus! Net ir humanitarams"
 date:   2016-09-04 20:41:12 +0200
 categories: jekyll update
 ---

@@ -9,6 +9,7 @@ html {
 
 @media (max-width: 325px) {
   html { font: 17px/1.6 'Open Sans', sans-serif; }
+  .subtitle { font-size: 0.7em }
 }
 
 body {
@@ -18,7 +19,7 @@ body {
 
 @media (min-width: 30rem) {
   body {
-    margin-top: 4rem;
+    margin-top: 2rem;
   }
 }
 

@@ -1,10 +1,9 @@
 ---
 layout: post
 comments: true
-title:  "Programavimas labai įdomus! Net ir humanitarams"
+title:  Programavimas labai įdomus! Net ir humanitarams
 date:   2016-09-04 20:41:12 +0200
 excerpt_separator: <!--more-->
-categories: jekyll update
 ---
 Galbūt esi tokioje situacijoje, jog nebenori tęsti dabartinės karjeros arba jau pasiekei viską, ką galėjai tame darbe.
 Prieš kelis mėnesius ir aš atsidūriau panašioje padėtyje, tad nusprendžiau pakeisti darbo sritį. Bet kur eiti? 
@@ -25,4 +24,6 @@ tau sakys (dažniausiai vyrai) - ten juk reikia loginio mąstymo! Suprask, tu ju
 Po keleto tokių pokalbių nusprendžiau "užmesti akį" į tą programavimą. Kažkada anksčiau jau buvau susidūrusi su Khan Academy įrašais ir pamokomis,
 todėl ten pradėjau įžanginį kursą į programavimą. Nuo to laiko tikriausiai nepraėjo nei dienos be kodo! Ar bent jau minčių apie programavimą.
 Taigi, pabandykite ir galbūt save labai nustebinsite, nes tai išties nuostabus ir labai dinamiškas pasaulis! 
+
+Turi klausimų ar idėjų? Rašyk komentaruose!
  

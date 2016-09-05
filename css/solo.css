@@ -93,7 +93,7 @@ h2 {
   h2 {
     margin-top: 2.5rem;
     font-size: 1.75rem;
-    margin-bottom: 8rem;
+    margin-bottom: 3rem;
     margin-right: -4rem;
   }
   .subtitle {
@@ -284,6 +284,14 @@ pre > code {
 
 .sharing-buttons {
 	width: 100%;
+}
+@media (max-width: 480px){
+  h2 {
+    margin-bottom: 2rem;
+  }
+  p {
+    text-align: justify;
+  }
 }
 @media (min-width: 481px) and (max-width: 768px) {
   .commentWrapper {

@@ -1,0 +1,51 @@
+---
+layout: post
+comments: true
+title:  Metodo .filter() dekonstrukcija
+excerpt_separator: <!--more-->
+---
+Metodai Javascript programavimo kalboje sukurti tam, jog dažnai rašomą kodą būtų galima sutrumpinti. Vienas iš tokių metodų yra .filter, ir
+ir šiame straipsnyje mes pamėginsim išsiaiškinti, kaip jis sukonstruotas.
+<!--more-->
+Tokie pratimai padeda įgauti gilesnį supratimą apie programavimo kalbą. Filter metodas man buvo sudėtingas, nes pradedančiajam skaityti dokumentaciją
+ir ją gerai suprasti yra gana sunku. Šis metodas yra taikomas masyvams (array), ir paprastai tariant, jis ima kiekvieną masyvo elementą ir 
+vykdo nurodytą funckiją, o rezultatą grąžina į naują masyvą. Tai padeda išvengti FOR ciklo (loop) bei IF sąlygos sakinio. Pirmiausia, pradėkime nuo 
+šių ir išfiltruokime masyvą išplėstuoju būdu.
+
+{% highlight ruby %}
+var myArray = [0, 0, 1, 0, 1, 0]; // čia nusistatome masyvą, kuriuo norime manipuliuoti (šiuo atveju - filtruoti)
+var newArray = []; // čia konstatuojame tuščią masyvą, į kurį sudėsime išfiltruotus elementus
+
+function filterArray(element) {
+	for (var i = 0; i < myArray.length; i++) { // FOR ciklas, kuris nustatytas kartoti tiek kartų, kiek yra masyve elementų
+		if (element[i] === 1) { // su IF sąlygos sakiniu atsirenkame, kurių elementų mums reikia. Šiuo atveju, mes norime vienetų.
+			newArray.push(element[i]); //su .push metodu sudedame vienetus į tuščią masyvą
+		}
+	} return newArray; // grąžiname rezultatą
+}
+filterArray(myArray); // mūsų gautas rezultatas - [1, 1]
+{% endhighlight %}
+
+Kodo ilgis - 12 eilučių. Dabar pažiūrėkime, kaip .filter metodas sutrumpina šį kodą.
+
+{% highlight ruby %}
+// pirmiausia parašykime, ką toji funkcija turi masyvui padaryti. t.y., ką grąžinti
+function filterWithFilter(element) {
+	return element === 1;
+}
+// o dabar nurodykime, kokiam masyvui pritaikyti mūsų filterWithFilter funkciją
+myArray.filter(filterWithFilter) // resultatas - [1, 1]
+{% endhighlight %}
+
+Matote, kodas viso labo keletos eilučių ilgio (eilučių skaičius priklauso ir nuo rašymo stilius. Man patinka labiau išplėstas, nes jį lengviau skaityti).
+Filter funkciją galima rašyti ir su anonimine funkcija. Tuomet viskas atrodytų taip: 
+
+{% highlight ruby %}
+myArray.filter(function(element) {
+	return element === 1;
+});
+{% endhighlight %}
+
+Tai štaip veikia .filter() metodas. 
+
+Turi klausimų ar idėjų? Rašyk komentaruose!

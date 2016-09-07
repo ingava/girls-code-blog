@@ -4,7 +4,7 @@ comments: true
 title:  Metodo .filter() dekonstrukcija
 excerpt_separator: <!--more-->
 ---
-Metodai Javascript programavimo kalboje sukurti tam, jog dažnai rašomą kodą būtų galima sutrumpinti. Vienas iš tokių metodų yra `.filter, ir
+Metodai Javascript programavimo kalboje sukurti tam, jog dažnai rašomą kodą būtų galima sutrumpinti. Vienas iš tokių metodų yra `.filter`, ir
 šiame straipsnyje mes pamėginsime išsiaiškinti, kaip jis sukonstruotas.
 <!--more-->
 
@@ -34,7 +34,7 @@ function filterArray(element) {
 filterArray(myArray); # mūsų gautas rezultatas - [1, 1]
 {% endhighlight %}
 
-Kodo ilgis - 8 eilutės. Dabar pažiūrėkime, kaip `.filter() metodas sutrumpina šį kodą.
+Kodo ilgis - 8 eilutės. Dabar pažiūrėkime, kaip `.filter()` metodas sutrumpina šį kodą.
 
 {% highlight ruby %}
 

@@ -38,7 +38,7 @@ Kodo ilgis - 8 eilutės. Dabar pažiūrėkime, kaip `.filter()` metodas sutrumpi
 
 {% highlight ruby %}
 
-# nustatome, ką toji funkcija turi masyvui padaryti, t.y., ką grąžinti
+# nustatome funkciją, kuri tikrina, ar elementas atitinka kriterijų, t.y. ar dėti į naują masyvą.
 
 function myFilter(element) {
 	return element === 1;

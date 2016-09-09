@@ -4,11 +4,11 @@ comments: true
 title:  Metodo .filter() dekonstrukcija
 excerpt_separator: <!--more-->
 ---
-Metodai Javascript programavimo kalboje sukurti tam, jog dažnai rašomą kodą būtų galima sutrumpinti. Vienas iš tokių metodų yra `.filter`, ir
-šiame straipsnyje mes pamėginsime išsiaiškinti, kaip jis sukonstruotas.
+Metodų dekonstrukcija yra naudingas pratimas norint įgauti gilesnį supratimą apie programavimo kalbą. Šiame straipsnyje analizuosime, 
+kas slypi po `.filter()` metodo JavaScript kalboje.
 <!--more-->
 
-Tokie pratimai padeda įgauti gilesnį supratimą apie programavimo kalbą. Šis metodas yra taikomas masyvams (array), ir paprastai tariant, jis ima kiekvieną masyvo elementą ir 
+`.filter()` yra taikomas masyvams (array), ir paprastai tariant, jis ima kiekvieną masyvo elementą ir 
 vykdo nurodytą funckiją, o rezultatą grąžina į naują masyvą. Tai padeda išvengti FOR ciklo (loop) bei IF sąlygos sakinio. Pirmiausia, pradėkime nuo 
 šių ir išfiltruokime masyvą išplėstiniu būdu.
 

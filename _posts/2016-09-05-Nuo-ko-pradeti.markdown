@@ -18,7 +18,7 @@ Kalbant labai paprastai, front-end yra "priekinė" tinklalapių dalis, matoma va
 "už ekrano". 
 
 Jeigu jau galite apsispręsti, bent jau kurią sritį norite programuoti, tuomet galima rinktis programavimo kalbą. Su front-end viskas aišku - 
-tau reikės įvaldyti tris technologijas: HTML, CSS ir Javascript. O jei tave labiau domina vartotojui nematoma dalis, tuomet pasirinkimas kur kas
+tau reikės įvaldyti tris technologijas: HTML, CSS ir JavaScript. O jei tave labiau domina vartotojui nematoma dalis, tuomet pasirinkimas kur kas
 platesnis. 
  
 Klausti patarimo labiau patyrusių programuotojų yra gana pavojinga, nes tikėtina, jog jie karštai tau aiškins, kad reiktų mokytis tos ar anos kalbos.

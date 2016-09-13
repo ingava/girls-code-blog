@@ -28,6 +28,8 @@ nuo jų apsisaugoti bei daugybė kitų dalykų, naudingų tiesiog kasdieniam dar
 Be abejo, kai kurie dalykai pravers ir kuriant svetaines, ypač kai reikės patalpinti savo kūrinį į interneto platybes arba siekiant apsaugoti
 klientą nuo piktadarių. 
 
-Nepamirškite, jog kažkada moterys sudarė didžiąją dalį programuotojų, ir visa tai atrodė beveik šitaip: 
+Nepamirškite, jog kažkada moterys sudarė didžiąją dalį programuotojų, ir visa tai atrodė beveik šitaip:
+
+![Moterys programuotojos](/assets/women_coders.jpg)  
 
 Bendraukime - rašyk klausimus ar reakcijas komentaruose!

@@ -4,7 +4,7 @@ comments: true
 title:  Geriau pažinkim kompiuterį ir internetą
 excerpt_separator: <!--more-->
 ---
-Jeigu mokaisi tinkalapių ar mobiliųjų programėlių kūrimo, tau tikrai nebūtina žinoti, kaip veikia kompiuteris. Tačiau geriau suprasti savo
+Jeigu mokaisi tinklalapių ar mobiliųjų programėlių kūrimo, tau tikrai nebūtina žinoti, kaip veikia kompiuteris. Tačiau geriau suprasti savo
 pagrindinį įrankį gali būti ne tik naudinga, bet ir įdomu. Ypač, jei randi gerų kursų. 
 <!--more-->
 
@@ -29,3 +29,5 @@ Be abejo, kai kurie dalykai pravers ir kuriant svetaines, ypač kai reikės pata
 klientą nuo piktadarių. 
 
 Nepamirškite, jog kažkada moterys sudarė didžiąją dalį programuotojų, ir visa tai atrodė beveik šitaip: 
+
+Bendraukime - rašyk klausimus ar reakcijas komentaruose!

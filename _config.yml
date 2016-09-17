@@ -23,6 +23,9 @@ url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
+gems:
+  - jekyll-seo-tag
+
 # Build settings
 markdown: kramdown
 theme: minima

@@ -38,6 +38,11 @@ Dar vienas būdas pasirinkti - tiesiog atsiversti darbo skelbimų puslapį ir pa
 darbo rinkoje. <a href="http://pypl.github.io/PYPL.html" target="_blank">Štai čia</a> gali rasti šiandien labiausiai naudojamų programavimo kalbų sąrašą. O gal turi galvoje įmonę, kurioje labai norėtum dirbti? Tuomet būtų verta pasidomėti, kokios programavimo kalbos joje naudojamos, ir judėti
 ta kryptimi. 
 
+Galite pažiūrėti šį video įrašą, kuriame programuotojas dalijasi savo patirtimi ir trumpai pristato pagrindines tinklalapių kūrimo sritis ir
+technologijas. Įrašas jau truputį pasenęs kai kuriais aspektais (naudojamų technologijų atžvilgiu), bet svarbiausi dalykai išlieka tie patys.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXqs6X0lzKI" frameborder="0" allowfullscreen></iframe>
+
 Na, o pabaigai - paveiksliukas, iliustruojantis naujokus :)
   
 ![Cat meme](/assets/catMeme.png)  

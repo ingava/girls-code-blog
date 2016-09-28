@@ -18,6 +18,8 @@ Konkretūs kursai, kuriuos čia praėjau:
 3. <a href="https://www.khanacademy.org/computing/computer-programming/programming" target="_blank">Intro to JS: Drawing & Animation</a>
  
 "Drawing & Animation" kursas galbūt aktualesnis tiems, kas nori kurti žaidimus. Bet man jis nepakenkė.
+
+Kuo dar mane sužavėjo šie <a target="_blank" href="https://www.khanacademy.org/computing/computer-programming">Khan Academy</a> kursai, yra tai, jog juos vedė moterys. Netgi dvi skirtingos! Tai labai gudrus sprendimas, manau, siekiant pritraukti daugiau merginų į šią sritį.
  
 Po šios gana švelnios įžangos ėmiau mokytis CSS ir giliai. Manau, jog front-endui nepakanka gerai mokėti boostrap, o visgi reikia sugebėti 
 sukoduoti puslapį vien tik su CSS naudojantis ir pažangesnėmis technikomis, tokiomis kaip flexbox bei sass. 

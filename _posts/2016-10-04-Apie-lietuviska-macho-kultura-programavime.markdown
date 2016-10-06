@@ -10,16 +10,15 @@ naudingų dalykų, bet ir atlikti tam tikrą neformalų sociologinį tyrimą api
 Galbūt aš lyginu obuolį su apelsinu, todėl mano pastebėjimų joks save gerbiantis mokslinis žurnalas nespausdintų. Tačiau tendencijos vis tiek
 gana aiškios.
 
-Pirmiausia apie tas Facebook grupes. Viena iš jų yra "Code Newbie Warehouse", apie kurią sužinojau iš savo mėgstamiausio podcasto (apie jį vis dar
-planuoju jums parašyti). Tai sparčiai besilpečianti grupė, turinti daugiau nei 4000 narių, ir yra skirta visiems pradedantiesiems. Čia dalijamasi
+Pirmiausia apie tas Facebook grupes. Viena iš jų yra <a href="https://www.facebook.com/groups/1594816820775537/" target="_blank">"Newbie Coder Warehouse"</a>, apie kurią sužinojau iš vieno podcasto. Tai sparčiai besilpečianti grupė, turinti daugiau nei 5000 narių, ir yra skirta visiems pradedantiesiems. Čia dalijamasi
 įvairiais patarimais dėl mokymosi resursų, motyvacinių dalykų, darbo rinkos ir pan. Galima užduoti ir techninius klausimus, nes grupėje yra
 skirtingo lygio programuotojų.
 
-Antroji - tai "Lietuvos webo profesionalai". Kaip jau supratote iš pavadinimo, ji labiau skirta profesionalams, o ne naujokams, nors ir tokių
+Antroji - tai <a href="https://www.facebook.com/groups/webas/" target="_blank">"Lietuvos webo profesionalai"</a>. Kaip jau supratote iš pavadinimo, ji labiau skirta profesionalams, o ne naujokams, nors ir tokių
 yra nemažai, sprendžiant iš klausimų. Prie jos prisijungiau iš smalsumo ir noro sužinoti apie darbo rinkos aktualijas būtent Lietuvoje, nes juk
 čia ir planuoju dirbti.
 
-"Code Newbie Warehouse" dalyvauju gana aktyviai - klausiu ir dalijuosi savo patirtimi. Niekada joje neteko patirti nieko negatyvaus, visi nariai
+"Newbie Coder Warehouse" dalyvauju gana aktyviai - klausiu ir dalijuosi savo patirtimi. Niekada joje neteko patirti nieko negatyvaus, visi nariai
 yra korektiški ir supratingi. Esu mačiusi vieną kartą grupės moderatorės žinutę, jog nekorektiškų komentarų autoriai nebus toleruojami. Grupės
 tikslas yra sukurti tokią atmosferą, kurioje VISI galėtų pilnavertiškai dalyvauti. 
 
@@ -28,7 +27,9 @@ dalyvauti. Ypač įsiminė vienas klausimas ir jį sekęs komentaras. Klausimo a
 paslaugą, kuri galėtų būti integruota į to asmens kuriamą programą. 
 
 Vienas komentatorius nepatingėjo parašyti ilgą atsakymą ir be jokių gramatinių ar skyrybos klaidų, kuriame autorius ir visi kiti, prašantys
-nemokamų paslaugų, yra, anot jo, visiški kaimiečiai. Ilga tirada baigėsi "nevykėlių tauta" ir jaustuku "fui!". Man labiausiai visgi įstrigo
+nemokamų paslaugų, yra, anot jo, visiški kaimiečiai. Net pasidariau ekrano nuotrauką: 
+![facebook komentaras](/assets/comment_picture.png)
+Man labiausiai visgi įstrigo
 ne vaizdingų būdvardžių gausa, bet klaidų nebuvimas. Vadinasi, žmogus yra pakankamai išsilavinęs, kad gali parašyti komentarą lietuviškomis
 raidėmis, naudodamas sudurtinius sakinius be skyrybos klaidų.
 

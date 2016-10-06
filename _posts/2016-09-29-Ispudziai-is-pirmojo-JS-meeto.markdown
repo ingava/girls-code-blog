@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 Vakar pagaliau sukaupiau drąsą ir nuėjau į JavaScript fanų susitikimą ("meet'ą"). Didžiausias įspūdis tikriausiai šis - kur moterys??? 
 <!--more-->
 
-Tikrai dažnai girdėsi, kad verta eiti į prpgramavimo kalbos, kurios mokaisi, entuziastų susibūrimus. Tai puiki proga pažvelgti į būsimą savo 
+Tikrai dažnai girdėsi, kad verta eiti į programavimo kalbos, kurios mokaisi, entuziastų susibūrimus. Tai puiki proga pažvelgti į būsimą savo 
 profesiją iš arčiau. Juose galima sužinoti įdomių dalykų bei užmegzti naudingų pažinčių. Tikriausiai per visus tokius susitikimus sponsoriai 
 praneša, jog ieško programuotojų.
 

@@ -66,6 +66,6 @@ Tai tokia buvo mano ligšiolinė kelionė į nušvitimą. Dar esu baisiai toli i
  
 Na ir kaip neužbaigsi tokio straipsnio paveiksliuku? :)
  
-![False joke](/assets/joke-false.png)
+![False joke](/assets/joke-false.jpg)
  
  

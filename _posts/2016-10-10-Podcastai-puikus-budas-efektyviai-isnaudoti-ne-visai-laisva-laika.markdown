@@ -12,8 +12,7 @@ Na, o kadangi jau mokomės programavimo, tai ir klausytis visai tiktų kažko, k
 gal įrašų seriją?), kuris yra orientuotas į pradedančiuosius, tačiau būtų įdomus ir labiau pažengusiems. 
 
 Dabar jau nebeprisimenu kaip, tačiau kažkaip atradau <a href="http://www.codenewbie.org/" target="_blank">"CodeNewbie"</a> įrašus, kurie transliuojami kas savaitę. Jų klausausi per "Podcast Addict"
-programėlę telefone. Įrašų galima klausytis internetu arba juos parsisiųsti į telefoną ir klausytis neprisijungus prie interneto (tą aš dažniausiai 
-ir darau).
+programėlę telefone. Įrašų galima klausytis internetu arba juos parsisiųsti į telefoną ir klausytis neprisijungus prie interneto.
 
 Be to, "CodeNewbie" turi ir internetinį portalą, kuriame galima registruotis, nors to dar nesu išbandžiusi. Taip pat kiekvieną savaitę vyksta
 diskusijos Twitteryje, bet jose mums, lietuviams, nelabai palanku dalyvauti dėl didžiulio laiko skirtumo tarp Lietuvos ir Niujorko. 
@@ -22,7 +21,7 @@ Kodėl man patinka būtent šis podcastas:
 
 1. Veda moteris! Žinoma, tai savaime nėra pakankama priežastis kažko klausytis ar nesiklausyti. Bet malonu žinoti, kad programavimo sritis nėra
 uzurpuota išskirtinai vyrų, ir kad yra puikių moterų programuotojų, iš kurių galima pasisemti įkvėpimo. Taip pat ir su kviečiamais svečiais - 
-kiek pastebėjau (nors ir tiksliai neskaičiavau) moterų ir vyrų dalyvių santykis yra apyligis. Kuri nesate susidūrusi su lyčių balanso 
+kiek pastebėjau (nors ir tiksliai neskaičiavau), moterų ir vyrų dalyvių santykis yra apylygis. Kuri nesate susidūrusi su lyčių balanso 
 klausimu programavime, galite susidaryti klaidingą įspūdį :)  Be to, mums tai gal ir mažiau aktualus klausimas, bet įrašų prodiuserė stengiasi
 į laidas kviesti ir įvairių rasių ir etninių grupių atstovus. 
 
@@ -31,8 +30,7 @@ Apskritai, lyčių klausimas tech srityje nėra keliamas kažkaip atskirai. Čia
 moterimi programuotoja 20 vyrų komandoje? Tačiau šis faktas nėra ir visiškai ignoruojamas. Laidos prodiuserė kalbina veikėjas, kurios 
 užsiima moterų ar mažumų atstovų įtraukimo klausimais ir pan.
 
-3. Įrašai nėra techniniai, todėl tinka absoliučiai visų sričių programuotojoms. Nesvarbu, kuo tu domiesi, pokalbiai bus aktualus visų sričių
-atstovams. Laidose kalbama daugiausia apie pašnekovų kelionę į programavimą, aptariami jų pasiekimai, dalijamasi universaliais patarimais. Smagu
+3. Įrašai nėra techniniai, todėl tinka absoliučiai visų sričių programuotojoms. Laidose kalbama daugiausia apie pašnekovų kelionę į programavimą, aptariami jų pasiekimai, dalijamasi universaliais patarimais. Smagu
 žinoti, kad programavimas buvo sunkus visiems. Tokie pokalbiai tikrai įkvepia, ypač smukusios motyvacijos metu.
 
 4. Laidos yra puikios techninės kokybės, o vedėja - nuostabi ir supratinga kalbintoja. Jos klausimai visada aktualūs ir gerai apgalvoti.

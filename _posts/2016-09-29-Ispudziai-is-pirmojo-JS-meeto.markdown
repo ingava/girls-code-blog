@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  Ispūdžiai iš pirmojo JavaScript entuziastų susitikimo
+title:  Įspūdžiai iš pirmojo JavaScript entuziastų susitikimo
 excerpt_separator: <!--more-->
 ---
 Vakar pagaliau sukaupiau drąsą ir nuėjau į JavaScript fanų susitikimą ("meet'ą"). Didžiausias įspūdis tikriausiai šis - kur moterys??? 

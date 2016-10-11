@@ -2,6 +2,9 @@
 layout: post
 comments: true
 title: Podcastai - puikus būdas efektyviai išnaudoti ne visai laisvą laiką
+excerpt: "Nenoriu nuskambėti kaip kokia manjakė, kuri kiekvieną minutę nori išnaudoti efektyviai ir produktyviai, tačiau tikriausiai kasdien turime
+          nemažai ne visiškai laisvo laiko, kurio metu kažin ko nenuveiksi, bet gali pasiklausyti ko nors naudingo ir įdomaus, netgi atpalaiduojančio.
+          Kalbu apie laiką, kai einame ar važiuojame į ir iš darbo, plauname namie indus ar bėgiojame parke."
 excerpt_separator: <!--more-->
 ---
 Nenoriu nuskambėti kaip kokia manjakė, kuri kiekvieną minutę nori išnaudoti efektyviai ir produktyviai, tačiau tikriausiai kasdien turime
@@ -44,5 +47,6 @@ kaip pasiruošti pokalbiui dėl programuotojos darbo ir pan. Taip pat bandžiau 
 būti aktualus, tačiau įrašų kokybė pasirodė tokia prasta, jog visą laiką turėjau laikyti labai įtemptas ausis, kad ką nors suprasčiau.
 
 Tai tokia būtų mano patirtis su podcastais. Gal ir jūs kažką įdomaus esate atradę? Pasidalinkite komentaruose!
+
 
 

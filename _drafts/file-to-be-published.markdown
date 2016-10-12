@@ -1,14 +1,15 @@
 
 ---
+published: false
 layout: post
 comments: true
 title: Programuotojų dienos proga - nauji lietuviški terminai
-excerpt: 
+excerpt: Straipsnyje susipažįstame su dažnai naudojamais terminų vertimais pagal kūrybingąją VLKK
 excerpt_separator: <!--more-->
 ---
-Praėjusį mėnesį (rugsėjo 12 d.) minėjome Programuotojų dieną. Tą proga vertimų biuras "Ars libri" surinko nedidelį dažnai programavimo srityje 
+Praėjusį mėnesį (rugsėjo 12 d.) minėjome Programuotojų dieną. Ta proga vertimų biuras "Ars libri" surinko nedidelį dažnai programavimo srityje 
 vartojamų terminų žodynėlį. Kadangi pati rašydama dažnai susiduriu su lietuviškų terminų trūkumu, ėmiau tyrinėti VLKK klodus šioje srityje.
----
+<!--more-->
 Humanitarams, natūraliai linkusiems prie gimtosios kalbos puoselėjimo, kartais ausys linksta klausantis programuotojų
 šnektos. Pamenu, vieną kartą mamai turėjau vertėjauti, kai draugas prakalbo apie programinės įrangos kūrimą. 
 
@@ -28,4 +29,16 @@ Nesu tikra, ar man kada nors prigis "bug" vertimas - riktas. Tikriausiai, nuo ž
 Kažkodėl buvau įsitikinusi, kad žodis "file" lietuviškai būtų "byla". Na, bent jau programavimo terminologijoje, turėtume sakyti ne "failas",
 o rinkmena. O mūsų pamėgtas "hostingas" iš tikrųjų vadinasi priegloba. 
 
-http://www.vlkk.lt/vlkk-nutarimai/protokoliniai-nutarimai/kai-kuriu-kompiuterijos-svetimzodziu-lietuviski-atitikmenys
+Žemiau parinkau keletą naudingesnių terminų, imkit ir naudokit.
+
+| Angliškai           | Lietuviškai                     |
+|---------------------|---------------------------------|
+| buffer              | kaupas                          |
+| disk drive          | disko skaitlys                  |
+| file name extension | rinkmenos vardo plėtinys        |
+| inbox               | gaviniai, gavinių aplankas      |
+| installation        | įrengimas                       |
+| player              | leistuvė (beveik paleistuvė :)) |
+| pointer             | žymiklis                        |
+| rounting            | kelvada                         |
+| toolbar             | parankinė                       |

@@ -12,6 +12,34 @@ p {
 .commentWrapper {
   margin: 0 20px;
 }
+.facebookBtn, .twitterBtn, .googleBtn {
+  color: white;
+  padding: 8px;
+  border-radius: 5px;
+}
+.facebookBtn {
+  background: rgb(59, 89, 152);
+}
+.facebookBtn:hover {
+  text-decoration: none;
+}
+.twitterBtn {
+  background: rgb(85, 172, 239);
+}
+.twitterBtn:hover {
+  text-decoration: none;
+}
+.googleBtn {
+  background: rgb(220, 78, 65);
+}
+.googleBtn:hover {
+  text-decoration: none;
+}
+.sharingButtons {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
 @media (max-width: 325px) {
   html { font: 17px/1.6 'Open Sans', sans-serif; }
 }
@@ -296,12 +324,12 @@ pre > code {
 @media (min-width: 481px) and (max-width: 768px) {
   .commentWrapper {
     width: 80%;
-    margin: auto;
+    margin: 40px auto;
   }
 }
 @media (min-width: 769px) {
   .commentWrapper {
     width: 60%;
-    margin: auto;
+    margin: 40px auto;
   }
 }

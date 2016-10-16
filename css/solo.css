@@ -138,7 +138,7 @@ h3 {
 @media (min-width: 30rem) {
   h3 {
     margin-top: 2.5rem;
-    font-size: 2rem;
+    font-size: 1.3rem;
     margin-bottom: 1.5rem;
   }
 }
@@ -201,7 +201,7 @@ word-wrap: break-word;
 .container img {
   margin: 2em auto 2em auto;
   display: block;
-  max-width: 75%;
+  max-width: 100%;
 }
 
 @media (max-width: 635px) {

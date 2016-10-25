@@ -49,7 +49,9 @@ HTML:
 {% endhighlight %}
 
 CSS:
-```{r}
+
+{% highlight ruby %}
+
 .header-content {
   position: relative;
 }
@@ -68,7 +70,9 @@ CSS:
   height: 250px;
   background: rgba(0, 0, 0, 0.4);
 }
-```
+
+{% endhighlight %}
+
 Jeigu tiesiog paprastai įterptume `.overlay` klasę, šis sluoksnis užgožtų tekstą, todėl ir jis būtų patamsintas. `:before` mums leidžia įterpti
 patamsintą sluoksnį dar prieš parodant tekstą, todėl šis išlieka nepakitęs. 
 
@@ -80,7 +84,9 @@ Veikia, bet gana sudėtingas būdas pasiekti norimą rezultatą. Laimei, yra ger
 perėjimo efektui padaryti. Tačiau, kadangi mums reikia vientisos spalvos, mes abi spalvas nurodome tokias pačias. 
 
 CSS: 
-```{r}
+
+{% highlight ruby %}
+
 .header-picture {
     height: 250px;
     background: linear-gradient(
@@ -91,7 +97,8 @@ CSS:
     background-size: cover;
 }
 
-``` 
+{% endhighlight %}
+
 Taip, tik tiek. Tiesa, IE9 ir senesnės IE naršyklės nepalaiko CSS gradientų, todėl jei reikalinga, jog svetainė veiktų ir su šiomis naršyklėmis,
 reikia pridėti vadinamąjį *prefixą*. Beje, pasitikrinti, kurios naršyklės palaiko kurias funkcijas galima <a href="http://caniuse.com/" target="_blank">Can I Use</a>
  svetainėje. 

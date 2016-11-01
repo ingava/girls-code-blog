@@ -3,42 +3,28 @@
 published: false
 layout: post
 comments: true
-title: Programuotojų dienos proga - nauji lietuviški terminai
-excerpt: Straipsnyje susipažįstame su dažnai naudojamais terminų vertimais pagal kūrybingąją VLKK
+title: Mega podcastų sąrašas
 excerpt_separator: <!--more-->
 ---
-Praėjusį mėnesį (rugsėjo 12 d.) minėjome Programuotojų dieną. Ta proga vertimų biuras "Ars libri" surinko nedidelį dažnai programavimo srityje 
-vartojamų terminų žodynėlį. Kadangi pati rašydama dažnai susiduriu su lietuviškų terminų trūkumu, ėmiau tyrinėti VLKK klodus šioje srityje.
+[Anksčiau kalbėjau ]({% post_url 2016-10-10-Podcastai-puikus-budas-efektyviai-isnaudoti-ne-visai-laisva-laika %}){:target="_blank"}apie tai,
+ kaip galima naudingai išnaudoti ne visiškai laisvą laiką ir rekomendavau keletą podcastų, tinkamų pradedantiesiems
+programavime. Neseniai atradau labai išsamų podcastų sąrašą, kuriuo norėčiau pasidalinti su jumis.
 <!--more-->
-Humanitarams, natūraliai linkusiems prie gimtosios kalbos puoselėjimo, kartais ausys linksta klausantis programuotojų
-šnektos. Pamenu, vieną kartą mamai turėjau vertėjauti, kai draugas prakalbo apie programinės įrangos kūrimą. 
+Savo mėgstamos laidos įrašus jau išklausiau, todėl naujų tenka laukti - jie išleidžiami kas savaitę. Esu jau labai įpratusi klausytis įrašų einant
+į darbą ar vaikščiojant mieste, todėl vėl teko ieškoti ko nors naujo, iš ko galėčiau pasisemti įkvėpimo ar kažko sužinoti. 
 
-Kad taip nenutiktų ir man, stengiuosi naudoti kuo mažiau angliškų žodžių, nors kartais tai sunkiai įmanoma, nes manęs niekas nesuprastų. Taigi,
-kad mane geriau suprastumėte, susipažinkime su dažnai vartojamais ar įdomesniais vertimo variantais.
+Būten besiklausydama šių įrašų sužinojau apie <a href="https://simpleprogrammer.com/" target="_blank">Simple Programmer</a> blogą, kurio tikslas - 
+padėti IT profesionalams pagerinti karjerą ir asmeninį gyvenimą. Jame daug dėmesio skiriama "minkštiesiems įgūdžiams" - komunikacijai ir bendravimui.
+ 
+Šio blogo autorius John Sonmez parengė išsamiausią iki šiol man matytą podcastų sąrašą programuotojams. Sąrašas suskirstytas pagal temas, o
+sau įdomių įrašų ras įvairių sričių ir kalbų programuotojai - nuo front-endo iki įvairių back-end kalbų, taip pat ir mobiliųjų programų kūrėjai,
+ar programuotojai, dirbantys su serveriais (*devOps*).
+   
+Aš asmeniškai naudoju "Podcast Addict" programėlę (nesu tikra, ar tokia yra ir iPhone sumaniesiems), jos paieškos lauke įvedu norimo podcasto 
+pavadinimą.
 
-Iš "Ars libri" pateiktų terminų naudingi pasirodė "router" - maršrutizatorius, kelvedė. Pastarasis tikrai įdomus ir gana linksmas vertinys,
-tik ar mane būsimi kolegos supras? :). "Favourites" - parankiniai adresai, "contacts" - asmeninė adresinė, "clipboard" - iškarpinė, "label" 
-- žymena. Daugiau "Ars libri" vertinių galite rasti <a href="http://www.verslilietuva.lt/lt/naujienos/naujienos/populiariausiu-anglisku-kompiuteriniu-programu-ir-technikos-terminu-atitikmenys-lietuviu-kalba/524?utm_campaign=Versli%2BLietuva%2BNaujienlai%25C5%25A1kis%2B2016-10-12_57fe0d38597ed75ec6d3e5be&utm_medium=email&utm_source=newsletter" target="_blank">čia</a>.
+Taigi, <a href="https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/?utm_source=drip&utm_medium=email&utm_campaign=ultimate-list-of-developer-podcasts-updated" target="_blank">imkit ir klausykit</a>, o komentaruose dalinkitės naudingais atradimais.
 
-Tikriausiai jau daugelis esate girdėję "programišius" - tai yra, "hacker". Galimas ir "programavimo aistruolis" variantas. VLKK (Valstybinė
-lietuvių kalbos komisija) svetimžodžių keitimo lietuviškais atitikmenimis išties pasižymi kūrybiškumu. Bet galbūt kažką visgi galime pritaikyti.
 
-Nesu tikra, ar man kada nors prigis "bug" vertimas - riktas. Tikriausiai, nuo žodžio "apsirikti". Gana logiška, tik labai jau neįprasta. VLKK nuomone,
-"cache" turėtų būti verčiamas kaip priešatmintė arba podėlis. 
 
-Kažkodėl buvau įsitikinusi, kad žodis "file" lietuviškai būtų "byla". Na, bent jau programavimo terminologijoje, turėtume sakyti ne "failas",
-o rinkmena. O mūsų pamėgtas "hostingas" iš tikrųjų vadinasi priegloba. 
 
-Žemiau parinkau keletą naudingesnių terminų, imkit ir naudokit.
-
-| Angliškai           | Lietuviškai                     |
-|---------------------|---------------------------------|
-| buffer              | kaupas                          |
-| disk drive          | disko skaitlys                  |
-| file name extension | rinkmenos vardo plėtinys        |
-| inbox               | gaviniai, gavinių aplankas      |
-| installation        | įrengimas                       |
-| player              | leistuvė (beveik paleistuvė :)) |
-| pointer             | žymiklis                        |
-| rounting            | kelvada                         |
-| toolbar             | parankinė                       |

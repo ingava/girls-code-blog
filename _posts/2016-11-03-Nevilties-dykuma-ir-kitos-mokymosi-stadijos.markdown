@@ -5,8 +5,8 @@ title:  Nevilties dykuma ir kitos mokymosi stadijos
 excerpt_separator: <!--more-->
 ---
 Pradedant mokytis programuoti gali susidaryti įspūdis, jog tai visgi nėra taip sunku. Visa, ką darai, yra įdomūs ir pasitenkinimą suteikiantys 
-žaidimai, kurių metu sprendi vieną problemą. Tačiau su tokiais žaidimais programos nesukursi - tuo netruksi įsitikinti, kai atsisėsi prie tuščios
-rinkmenos (ahem, *failo*).
+žaidimai, kurių metu sprendi vieną problemą. Tačiau su tokiais žaidimais programos nesukursi - tuo netruksi įsitikinti, kai atsisėsi prie tuščio
+failo.
 <!--more-->
 
 Kažkada radau <a href="https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard" target="_blank">nuostabų straipsnį</a> apie mokymosi stadijas programavime, kuris man suteikė šiek tiek pasitikėjimo ir įtikino, jog tai, ką išgyvenu 

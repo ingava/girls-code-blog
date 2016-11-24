@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "Kodėl daugiau moterų turėtų dirbti technologijų srtyje: argumentai įmonėms"
+title:  "Kodėl daugiau moterų turėtų dirbti technologijų srityje: argumentai įmonėms"
 excerpt_separator: <!--more-->
 ---
 Kai kurie šio blogo lankytojai gali būti nustebinti jo pagrindinės temos - "moterys programuoja". Tačiau ji parinkta neatsitiktinai. Tik pradėjusi 

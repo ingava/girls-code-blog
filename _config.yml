@@ -17,7 +17,8 @@ title: Moterys programuoja
 description: > # this means to ignore newlines until "baseurl:"
   Tai mano dienoraštis besimokant programavimo. Tikiuosi, jog įrašai padės ne tik man pačiai geriau suprasti šį amatą, bet ir įkvėpti daugiau moterų rinktis programavimo sritį
 baseurl: "" # the subpath of your site, e.g. /blog
-logo: "./images/logo.jpg"
+logo: "/images/logo.jpg" #figure out the right path
+og_image: "/images/logo.jpg"
 excerpt_separator: <!--more-->
 url: "http://girlscode.lt" # the base hostname & protocol for your site
 twitter_username: jekyllrb

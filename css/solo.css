@@ -332,3 +332,6 @@ pre > code {
     margin: 40px auto;
   }
 }
+.footnote {
+  font-size: 0.8em;
+}

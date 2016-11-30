@@ -1,3 +1,4 @@
+<link rel="icon" href="/images/logo-small.jpg">
 <meta property="og:description"
       content="{% if page.excerpt %}
         {{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}
@@ -5,12 +6,8 @@
         {{ site.description }}
       {% endif %}">
 
-{% if page.image %}
-<meta content="{{ site.url }}/assets/img/posts/{{ page.image }}" property="og:image">
-<meta property="og:image:width" content="300" />
-<meta property="og:image:height" content="300" />
-{% else %}
-<meta content="{{ site.url }}/images/logo.jpg" property="og:image">
-<meta property="og:image:width" content="300" />
-<meta property="og:image:height" content="300" />
-{% endif %}
+<meta content="/images/logo.jpg" property="og:image">
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="600" />
+
+

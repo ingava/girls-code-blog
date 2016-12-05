@@ -21,8 +21,8 @@ logo: "/images/logo.jpg" #figure out the right path
 og_image: "/images/logo.jpg"
 excerpt_separator: <!--more-->
 url: "http://www.girlscode.lt" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: ingavaicia
+github_username:  ingava
 
 gems:
   - jekyll-seo-tag

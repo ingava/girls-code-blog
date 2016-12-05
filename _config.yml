@@ -20,7 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 logo: "/images/logo.jpg" #figure out the right path
 og_image: "/images/logo.jpg"
 excerpt_separator: <!--more-->
-url: "http://girlscode.lt" # the base hostname & protocol for your site
+url: "http://www.girlscode.lt" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 

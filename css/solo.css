@@ -3,6 +3,48 @@
 html {
   font: 22px/2 'Open Sans', sans-serif;
 }
+.about {
+  background-image: url("/images/women-coding.jpg");
+  background-size: cover;
+  background-position: -200px 0;
+  position: fixed;
+  width: 25%;
+  height: 100%;
+}
+.about::after {
+  content: "";
+  background-color: #ffffff;
+  opacity: 0.4;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+.my-photo {
+  border-radius: 100px;
+  border: solid 2px white;
+}
+.photo-container {
+  width: 94px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.social-logo {
+  width: 50px;
+  border: solid 2px black;
+  border-radius: 10px;
+  padding: 5px;
+  outline: none;
+}
+.social-links {
+  margin-top: 16em;
+  text-align: center;
+}
+.social-action {
+  margin-bottom: 1em;
+}
 .subtitle {
   font-weight: 400;
 }
@@ -36,9 +78,10 @@ p {
   text-decoration: none;
 }
 .sharingButtons {
-  max-width: 800px;
-  margin: 0 auto;
+  float: right;
+  width: 65%;
   text-align: center;
+  margin: 2em 0;
 }
 @media (max-width: 325px) {
   html { font: 17px/1.6 'Open Sans', sans-serif; }
@@ -85,7 +128,8 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 2.1rem;
-  margin: 2rem -2rem 4rem -2rem;
+  margin: 0 -2rem 4rem -2rem;
+  padding-top: 0.5em;
   font-weight: 700;
 }
 p {
@@ -109,7 +153,6 @@ h2 {
   margin-bottom: 5rem;
   color: #555;
   text-align: right;
-  margin-right: -4rem;
 }
 
 @media (min-width: 30rem) {
@@ -117,7 +160,6 @@ h2 {
     margin-top: 2.5rem;
     font-size: 1.75rem;
     margin-bottom: 2rem;
-    margin-right: -4rem;
   }
   .subtitle {
     margin-bottom: 3rem;
@@ -234,7 +276,8 @@ pre > code {
 }
 
 .container {
-  max-width: 625px;
+  width: 65%;
+  float: right;
   margin: 0 auto;
   padding: 0 0.75rem;
 }
@@ -329,7 +372,7 @@ pre > code {
 @media (min-width: 769px) {
   .commentWrapper {
     width: 60%;
-    margin: 40px auto;
+    float: right;
   }
 }
 .footnote {

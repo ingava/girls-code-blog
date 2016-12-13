@@ -33,8 +33,11 @@ jog šį šansą mūsų mokyklos švaisto ir toliau rengia įvairaus plauko darb
 Jei jau siekiame tapti IT šalimi, turėtume perimti airių mokyklų pavyzdį, kuriose programavimo mokoma pačiais moderniausiais būdais ir technologijomis, tokiomis kaip
 Minecraft žaidimas (beje, ir iš <a href="https://www.youtube.com/watch?v=P7AI9nqrNYU" target="_blank">airių tech specialistų prisiviliojimo strategijos</a>
  turime ko pasimokyti). Nors ir didinamas IT programų finansavimas universitetuose, pokyčiai turi prasidėti dar mokyklose, kitaip programavimą
- ir toliau rinksis tik užkietėję *geekai* (kurių skaičius visuomenėje yra gana ribotas). 
+ ir toliau rinksis tik užkietėję *geekai* (kurių skaičius visuomenėje yra gana ribotas).
 
 ![kaip seniau atrodė Facebook](/assets/early-facebook.jpg)
+
+
+
 
 

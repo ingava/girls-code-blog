@@ -14,8 +14,8 @@ prototipai, closures ir kiti sudėtingi dalykai.
 Tai yra tikrų tikriausia špargalkė ta prasme, jog ten nerasite išsamių paaiškinimų. Špargalkės paprastai ir būna tokios, į kurias gali užmesti
 akį ir prisiminti kažką, ką jau anksčiau bent kažkiek mokeisi. 
 
-Ją galite sau atsišakoti, ar šiaip paskaityti - nieko neriboju. Gerai būtų, jei tik nenaudotumėte jos komerciniais tikslais. O ir nerekomenduoju
-iš to darytis pinigų, nes tai visgi mano sąvokų supratimas, su kuriuo JavaScript guru gali nesutikti.
+Ją galite sau atsišakoti, ar šiaip paskaityti - apribojimų nėra. Galite siūlyti korekcijas, tikslinimus, visgi tai yra mano pačios supratimas,
+su kuriuo gali ne visi sutikti.
 
 O jei norite ir patys gerai suprasti sudėtingus JavaScript aspektus, labai rekomenduoju Anthony Alicea Udemy kursą
  <a href="https://www.udemy.com/understand-javascript/" target="_blank">JavaScript: Understanding the

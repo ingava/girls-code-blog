@@ -18,7 +18,10 @@ kai kurie "CSS reset" paruoštukai nuima `outline` (pavyzdžiui, gana žinomas E
 
 Kaip apeiti šią situaciją, kad dizainas išliktų patrauklus, o puslapis prieinamas visiems? Nors iš pažiūros `outline` ypatybė yra panaši į rėmelį,
 tačiau jai negalima nuimti sienų ar uždėti spindulį. Visgi, formuojant stilių turime truputį pasirinkimo: galima pakeisti fono spalvą,
-pakeisti teksto spalvą arba patį kontūrą.
+pakeisti teksto spalvą arba patį kontūrą. Padariau paprastą codepen pavyzdėlį, atsidarę pavaikščiokit su TAB mygtuku:
+
+<p data-height="265" data-theme-id="0" data-slug-hash="egmVLL" data-default-tab="html,result" data-user="inga_va" data-embed-version="2" data-pen-title="Outline styling example" class="codepen">See the Pen <a href="http://codepen.io/inga_va/pen/egmVLL/">Outline styling example</a> by Inga (<a href="http://codepen.io/inga_va">@inga_va</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 Apskritai, mano nuomone, programuotojai skiria per mažai dėmesio jų kuriamų produktų prieinamumui. Ir negali jų kaltinti, nes mes ir be to
 turime apgalvoti daugiau nei 1293453 dalykų (skaičius čia atsitiktinis, bet juk tikrai daug ką turime apgalvoti). Prieinamumo tema labiau domėtis

@@ -27,10 +27,6 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
     minima (1.0.1)
-    octopress-hooks (2.6.2)
-      jekyll (>= 2.0)
-    octopress-paginate (1.2.0)
-      octopress-hooks
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     rb-fsevent (0.9.7)
@@ -47,7 +43,6 @@ DEPENDENCIES
   jekyll (= 3.2.1)
   jekyll-seo-tag
   minima
-  octopress-paginate
 
 RUBY VERSION
    ruby 2.0.0p648

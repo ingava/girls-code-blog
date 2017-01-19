@@ -41,6 +41,49 @@ p {
   text-align: center;
 }
 
+.blog-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  border-bottom: solid 1px rgb(168, 162, 151);
+  background-color: white;
+}
+
+#logo {
+  width: 80px;
+  height: 80px;
+  border: solid 3px white;
+  margin: 5px;
+}
+
+.blog-header a {
+  height: 96px;
+}
+
+.about-section {
+  font-size: 1.5rem;
+  margin-right: 0.5em;
+}
+
+#profile-pic {
+  margin-top: 4em;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  /*border: solid 3px dimgrey;*/
+
+}
+
+.about-blog-title {
+  margin-top: 3.2em;
+  color: black;
+  text-align: left;
+}
+
 .pagination {
   margin: 5rem 0;
   text-align: center;
@@ -92,7 +135,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 2.1rem;
-  margin: 2rem -2rem 4rem -2rem;
+  margin: 5rem -2rem 4rem -2rem;
   font-weight: 700;
 }
 p {

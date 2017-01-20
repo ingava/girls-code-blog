@@ -95,6 +95,10 @@ p {
 
 #mc_embed_signup {
   margin: 0 auto;
+  background-color: #fff;
+  clear:left;
+  font-size:14px;
+  width: 400px;
 }
 
 #signup-input-label {

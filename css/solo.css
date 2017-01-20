@@ -82,6 +82,33 @@ p {
   text-align: left;
 }
 
+/* subscribe styles */
+
+.subscribe-form {
+  margin-top: 6em;
+  margin-bottom: 6em;
+}
+
+#mce-error-response, #mce-success-response {
+  display: none;
+}
+
+#mc_embed_signup {
+  margin: 0 auto;
+}
+
+#signup-input-label {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+.subscribe-form-title {
+  margin-left: 0;
+  text-align: center;
+}
+
+/* end of subscribe form styles */
+
 .pagination {
   margin: 5rem 0;
   text-align: center;

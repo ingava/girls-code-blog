@@ -14,6 +14,8 @@ naujus straipsnius galėsite gauti tiesiai į pašto dėžutę.
 Čia tam, jog blogas galėtų palaikyti ryšį su vis gausėjančia auditorija. O kadangi išėjau iš darbo, tai galėjau ir nedidelę skiltį apie save
 parašyti. Anksčiau nenorėjau to daryti - būtų užklydę kolegos ir supratę mano sėdėjimą su ausinėmis darbe reikalą.
 
+Taip pat pagaliau susipratau, jog blogo navigacija buvo labai nepatogi, todėl dabar yra "home" mygtukas. Tad spauskite ir mėgaukitės :)
+
 Beje, savo persikvalifikavimo į programavimą kelyje padariau dar vieną svarbų žingsnį, apie kurį tikiuosi kada brūkštelti. Taigi, laukite
 naujienų.
 

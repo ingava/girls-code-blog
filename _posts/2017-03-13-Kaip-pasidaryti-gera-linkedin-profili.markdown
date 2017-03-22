@@ -100,7 +100,7 @@ Kur kas daugiau patarimų gali rasti mano minėtose gairėse, kurias įsigyti ga
 
  ![This-shit-aint-facebook](/assets/this-shit-aint-facebook.jpg)
 
- O kol laukiam tų nuostabių pasiūlymų, kodėl mums nesusidraugavus? Mane rasite šiuo adresu: <a href="www.linkedin.com/in/inga-vaiciakauskaite" target="_blank">www.linkedin.com/in/inga-vaiciakauskaite</a>
+ O kol laukiam tų nuostabių pasiūlymų, kodėl mums nesusidraugavus? Mane rasite <a href="www.linkedin.com/in/inga-vaiciakauskaite" target="_blank">čia</a>.
 
 
 

@@ -98,9 +98,18 @@ Kur kas daugiau patarimų gali rasti mano minėtose gairėse, kurias įsigyti ga
  Bent jau aš tai tikrai nepasigailėjau jas nusipirkusi -
  žinojau, ką daryti ir kodėl tai daryti.
 
+ **Straipsnio papildymas:** yra dar vienas svarbus nustatymas, kurį reiktų pasižymėti aktyviai darbo ieškantiems asmenims. LinkedIne galima
+ indikuoti, jog ieškai naujų galimybių. Šį nustatymą mato įdarbinimo agentai ir personalo specialistai (tavo dabartinis bosas ar kolegos
+ to nustatymo nemato :)).
+
+ LinkedIno grafinė sąsaja vis keičiasi, bet šiuo metu šį nustatymą galima rasti prie "Jobs" dalies. Nuėjus ten turi būti "job preferences" ar
+ "update preferences" skiltis. Joje pasižymėkite "let recruiters know you are open".
+
+
+
  ![This-shit-aint-facebook](/assets/this-shit-aint-facebook.jpg)
 
- O kol laukiam tų nuostabių pasiūlymų, kodėl mums nesusidraugavus? Mane rasite <a href="http://www.linkedin.com/in/inga-vaiciakauskaite" target="_blank">čia</a>.
+ O kol laukiam tų nuostabių pasiūlymų, kodėl mums nesusidraugavus? Mane rasite <a href="http://www.linkedin.com/in/inga-vaiciakauskaite" target="_blank">www.linkedin.com</a>.
 
 
 

@@ -38,7 +38,7 @@ turėjau ir aš. Gavus pirmąjį programavimo darbą dalis dalykų pasitvirtino,
  Be to, naujas ne tik darbas, bet galbūt įrankiai, programavimo kalba/ar karkasas. Galiausiai, dirbi su didžiuliu kodu, kuriame šimtai
  tūkstančių, o gal net ir milijonai eilučių. Bus sunku suprasti ne tik kaip kas veikia, bet ir apskritai kur kas yra.
 
- Maloniai nustebino tai, jog nei karto nepajutau jokio negatyvo, jos esu moteris programuotoja ar jog neturiu IT išsilavinimo. Tai čia
+ Maloniai nustebino tai, jog nei karto nepajutau jokio negatyvo, kad esu moteris programuotoja ar kad neturiu IT išsilavinimo. Tai čia
  didžiulis padrąsinimas tokiems kaip aš. Netgi atvirkščiai, sakyčiau. Visi kolektyvai nori turėti kuo įvairesnių darbuotojų. Labiau bus vertinamos
   ne tavo techninės žinios, o potencialas bei motyvacija toliau mokytis (o to be abejo reikės), todėl savamoksliai čia yra geroje pozicijoje.
 
@@ -52,7 +52,7 @@ turėjau ir aš. Gavus pirmąjį programavimo darbą dalis dalykų pasitvirtino,
 
  Būtų įdomu išgirsti ir kitų patirčių iš pirmojo programavimo darbo - kas tave nustebino ar buvo netikėta? Dalinkis komentaruose!
 
- 
+
 
 
 

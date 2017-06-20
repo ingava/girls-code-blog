@@ -46,6 +46,6 @@ laiką palaikomų blogų ar vlogų nelabai daugiau žinau.
 
  O kas dar tik galvoja apie blogo rašymą - raginu prisijungti :) Iš pradžių gali atrodyti, jog neturi kuo pasidalinti, juk pati kol kas tik
  mokaisi, tačiau būtent besimokančių patirtis yra labai įdomi kitiems, esantiems panašioje pozicijoje. Be to, bloginimas taip pat padeda tobulėti
- kaip programuotojai, ypač kai rašai techninėmis temomis. 
+ kaip programuotojai, ypač kai rašai techninėmis temomis.
 
 ![Blogging](/assets/bloggers.jpg)

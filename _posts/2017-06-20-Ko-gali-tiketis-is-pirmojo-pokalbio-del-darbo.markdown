@@ -60,6 +60,9 @@ būdų pasikelti atlyginimą, tad labai tikėtina, kad per savo programavimo kar
 
 ![Job interview](/assets/job-interview.jpg)
 
+ Gali ir tu turi patirties darbo pokalbiuose dėl programavimo? Dalinkis ja komentaruose!
+
+
 
 
 

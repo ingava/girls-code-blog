@@ -20,6 +20,7 @@ gem "minima"
 
 # If you have any plugins, put them here!
 gem 'jekyll-seo-tag'
+gem 'jekyll-paginate'
 # group :jekyll_plugins do
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end

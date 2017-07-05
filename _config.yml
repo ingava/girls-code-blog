@@ -24,8 +24,14 @@ url: "http://www.girlscode.lt" # the base hostname & protocol for your site
 twitter_username: ingavaicia
 github_username:  ingava
 
+paginate: 5
+paginate_path: "/page:num/"
+
 gems:
   - jekyll-seo-tag
+  - jekyll-paginate
+
+
 
 # Build settings
 markdown: kramdown

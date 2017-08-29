@@ -126,6 +126,7 @@ p {
 body {
   margin: 0 0 5rem;
   color: #222;
+  overflow-x: hidden;
 }
 
 @media (min-width: 30rem) {

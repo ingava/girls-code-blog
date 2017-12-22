@@ -34,7 +34,7 @@ Dėl laiko stokos dažniausiai yra komentuojamos tik taisytinos vietos, o pozity
 Rašant yra labai sunku perteikti emocijas, todėl sakinys "Čia nereikia šito kintamojo" gali pasirodyti labai šaltas. Tačiau žmogus tikriausiai
 galvojo kažkaip panašiau į "hmmm, įdomu, kodėl ji čia parašė šitą kintamąjį, matyt, pamiršo ištrinti", tik tai nėra lengva išreikšti raštu.
 
-Visa tai labai svarbu turėti omenyje, ypač tik pradedant programuotojos karjerą, nes būtent per kontruktyvią kritiką galime pasimokyti iš labiau
+Visa tai labai svarbu turėti omenyje, ypač tik pradedant programuotojos karjerą, nes būtent per konstruktyvią kritiką galime pasimokyti iš labiau
  patyrusių kolegų. Manau, jog net renkantis darbovietę labai svarbu atsižvelgti
 į tai, ar tau bus duodamas feedbackas. Tai aktualu ne tik juniorams, bet ir labiau pažengusiems programuotojams. Jeigu jau dirbi programuotoja,
 vadinasi, gali parašyti veikiantį kodą. Tačiau kodas turi ne tik veikti, bet ir būti lengvai palaikomas ir plečiamas, bei suprantamas kitiems

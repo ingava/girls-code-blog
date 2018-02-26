@@ -89,13 +89,13 @@ komandai reikalauja tam tikrų įgūdžių, kurių nebuvimas gali tave izoliuoti
 bei užtikrina, jog reikalinga informacija pasiekia visus komandos narius.
 
 Stebėk, kiek laiko dirbi. Tam yra nemokamų priemonių, aš, pavyzdžiui, turiu tokį Toggl Chrome įskiepį. Darbo laiko stebėjimas, net jei ir nedirbi
-valandiniu tarifu, padės tau užtikrinti, jog sąžiningai atidirbti darbo dieną ir tuo pačiu neleis persidirbti.
+valandiniu tarifu, padės tau užtikrinti, jog sąžiningai atidirbi darbo dieną ir tuo pačiu neleis persidirbti.
 
 Manau, jog *remote* darbas labiausiai tinka labiau introvertams arba laisvę mėgstantiems asmenims, tėvams su mažais vaikais arba
 mėgstantiems daug keliauti ir gyventi egzotiškuose kraštuose. Darbas per atstumą mažiau tenkins bendrauti mėgstančius asmenis, arba žmones, kuriems
 reikalinga rutina ir pastovumas.
 
-P.S. - geriausios mintys ateina, kai pakeiti aplinką: 
+P.S. - geriausios mintys ateina, kai pakeiti aplinką:
 ![debugging](/assets/debugging.jpeg)
 
 Gal ir tu dirbi per atstumą arba galvoji apie tokį darbą? Pasidalink savo mintimis komentaruose!
